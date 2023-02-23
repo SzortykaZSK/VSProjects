@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
            string zmienna = "Twój stary";
-            Console.WriteLine("Hello, World!");
+            int licznik = 0;
+           Console.WriteLine("Hello, World!");
         }
     }
 }
