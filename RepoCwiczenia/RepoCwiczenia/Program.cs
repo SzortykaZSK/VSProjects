@@ -6,6 +6,7 @@
         {
            string zmienna = "Twój stary";
             Console.WriteLine("Hello, World!");
+            jfiwsjfsifjsi
         }
     }
 }
